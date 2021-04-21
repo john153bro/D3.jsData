@@ -1,4 +1,4 @@
-﻿Year,Coal,Oil,Gas
+﻿time,valueCoal,valueOil,valueGas
 1800,97,0,0
 1850,569,0,0
 1900,5728,181,64
